@@ -1,11 +1,17 @@
 
-<style>.tableBor { width:50%; }</style>
+<style>
+ table, th, td {
+  border: 1px solid black;
+}
+  </style>
 <div class ="tableBor">
+  
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
 </div>
 ## Logic Gates
    **What are Logic Gates?**<br><br>
