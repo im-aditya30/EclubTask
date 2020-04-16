@@ -4,8 +4,8 @@
   These are the basic logic gates:<br>
   * AND Gate<br>
 <p align = "center">
-  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate  Symbol"></a>
-  <table>
+  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate  Symbol">
+<table a>
     <tr>
       <th colspan ="2"> Input</th>
       <th> Output</th>
@@ -36,7 +36,7 @@
       <td align="center">1</td>
     </tr>
    </table>
- </p><br>
+ </p></a><br>
 
  [![AND Gate  Symbol](/images/andgate.png "AND Gate")](https://www.electronicshub.org/digital-logic-and-gate/) <br>
    * OR Gate<br>
@@ -54,5 +54,9 @@
  ##### The NAND (NOT-AND) and NOR (NOT-OR) gates are considered universal gates and can be used to make any other logic gate.<br> For example : NAND gate can be use to make following gates:<br>
  ![NAND Gate Applications](/images/nandgateUses.webp)
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
