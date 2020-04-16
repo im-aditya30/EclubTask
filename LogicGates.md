@@ -2,23 +2,41 @@
    **What are Logic Gates?**<br><br>
    Logic gates are the basic building blocks of any digital circuit. They are electronic circuits which have one or more inputs and only one output which relates to the input signals based on a certain logic.<br>
   These are the basic logic gates:<br>
-| ghkhg | vhvhvc | cjhvhjv  |
-|-------|:------:|---------:|
-| nhvhv | nbvjhv | bvbvnbvn |
-| nhvhv | nbvjhv | khjkkkhl |
-| nhvhv | nbvjhv | vjhgvvnh |
-<table style="collapse-border:collapsed">
-<tr>
-  <td> vjhsdc</td>
-  <td> vhhjgdvd</td>
-</tr>
-</table>
-|    X    	|    Y    	|    Z    	|
-|:-------:	|:-------:	|:-------:	|
-|    0    	|    0    	|    0    	|
-|    0    	|    1    	|    0    	|
-|    1    	|    0    	|    0    	|
-|    1    	|    1    	|    1    	|
+  * AND Gate<br>
+<p align = "center">
+  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate  Symbol"></a>
+  <table>
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+   </table>
+ </p><br>
 
  [![AND Gate  Symbol](/images/andgate.png "AND Gate")](https://www.electronicshub.org/digital-logic-and-gate/) <br>
    * OR Gate<br>
@@ -34,12 +52,7 @@
    * XNOR Gate<br>
   [![XNOR Gate Symbol](/images/xnorgate.png "XNOR Gate")](https://www.electronicshub.org/exclusive-nor-gate/) <br>
  ##### The NAND (NOT-AND) and NOR (NOT-OR) gates are considered universal gates and can be used to make any other logic gate.<br> For example : NAND gate can be use to make following gates:<br>
- ![NAND Gate Applications](/images/nandgateUses.webp)     
- 
-|         Input   	    |  Output  	|
-|---------	|---------	|---------	|
-|    X    	|    Y    	|    Z    	|
-|    0    	|    0    	|    0    	|
-|    0    	|    1    	|    0    	|
-|    1    	|    0    	|    0    	|
-|    1    	|    1    	|    1    	|
+ ![NAND Gate Applications](/images/nandgateUses.webp)
+
+
+
