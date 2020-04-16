@@ -34,4 +34,12 @@
    * XNOR Gate<br>
   [![XNOR Gate Symbol](/images/xnorgate.png "XNOR Gate")](https://www.electronicshub.org/exclusive-nor-gate/) <br>
  ##### The NAND (NOT-AND) and NOR (NOT-OR) gates are considered universal gates and can be used to make any other logic gate.<br> For example : NAND gate can be use to make following gates:<br>
- ![NAND Gate Applications](/images/nandgateUses.webp)
+ ![NAND Gate Applications](/images/nandgateUses.webp)     
+ 
+|         Input   	    |  Output  	|
+|---------	|---------	|---------	|
+|    X    	|    Y    	|    Z    	|
+|    0    	|    0    	|    0    	|
+|    0    	|    1    	|    0    	|
+|    1    	|    0    	|    0    	|
+|    1    	|    1    	|    1    	|
