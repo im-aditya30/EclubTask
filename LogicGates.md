@@ -21,7 +21,8 @@
   These are the basic logic gates:<br>
   * AND Gate<br>
 <p align = "center">
-  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate  Symbol"><table a>
+  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate Symbol"></a>
+  <table>
     <tr>
       <th colspan ="2"> Input</th>
       <th> Output</th>
@@ -52,7 +53,7 @@
       <td align="center">1</td>
     </tr>
    </table>
- </p></a><br>
+ </p><br>
 
  [![AND Gate  Symbol](/images/andgate.png "AND Gate")](https://www.electronicshub.org/digital-logic-and-gate/) <br>
    * OR Gate<br>
