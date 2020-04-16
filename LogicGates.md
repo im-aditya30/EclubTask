@@ -14,14 +14,14 @@
 | zebra stripes | are neat      |    $1 |
 
 </div>
+
 ## Logic Gates
    **What are Logic Gates?**<br><br>
    Logic gates are the basic building blocks of any digital circuit. They are electronic circuits which have one or more inputs and only one output which relates to the input signals based on a certain logic.<br>
   These are the basic logic gates:<br>
   * AND Gate<br>
 <p align = "center">
-  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate  Symbol">
-<table a>
+  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate  Symbol"><table a>
     <tr>
       <th colspan ="2"> Input</th>
       <th> Output</th>
