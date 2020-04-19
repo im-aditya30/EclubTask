@@ -1,19 +1,12 @@
 <style
   type="text/css">
-
-table {
-  /* */
-  /* border: 1px solid black; */
-}
 .box {
   width: 158px;
   text-align:center;
   margin:0 auto;
 }
 th{
-  /* background-color:#000000; */
   color:#FFFFFF; 
-  
 }
 </style>
 
