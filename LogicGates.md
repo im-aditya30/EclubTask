@@ -9,7 +9,7 @@
   ##### These are the basic logic gates:<br>
 
   * **AND Gate**<br><br>
-  [![AND Gate Symbol](/images/and.jpg "AND Gate Symbol")](https://www.electronicshub.org/digital-logic-and-gate/)<br>AND Gate Symbol
+  [![AND Gate Symbol](/images/and.jpg "AND Gate Symbol")](https://www.electronicshub.org/digital-logic-and-gate/)<br>AND Gate Symbol<br>
  <table  width="158" align="center">
     <tr>
       <th colspan ="2"> Input</th>
@@ -44,7 +44,7 @@
  <p align = "left">AND Gate Truth Table</p><br>
 
   * **OR Gate** <br><br>
-  [![OR Gate Symbol](/images/or.jpg "OR Gate Symbol")](https://www.electronicshub.org/digital-logic-or-gate/)<br>OR Gate Symbol
+  [![OR Gate Symbol](/images/or.jpg "OR Gate Symbol")](https://www.electronicshub.org/digital-logic-or-gate/)<br>OR Gate Symbol<br>
  <table align = "left" class="box">
     <tr>
       <th colspan ="2"> Input</th>
@@ -80,7 +80,7 @@
 
   * **NOT Gate** <br><br>
   [![ NOT Gate Symbol](/images/not.jpg "NOT Gate Symbol")](https://www.electronicshub.org/digital-logic-not-gate/)<br> NOT Gate Symbol
-
+<br>
  <p align = "left">
   <table align = "left" class="box">
     <tr>
@@ -107,11 +107,9 @@
 
   <p align = "left">NOT Gate Truth Table</p><br>
 
-  <h4>  
-
   * **NOR Gate**<br><br>
  
-    <img src= "/images/nor.jpg" alt ="NOR Gate Symbol"> <br> NOR Gate Symbol
+    <a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/nor.jpg" alt ="NOR Gate Symbol"></a> <br> NOR Gate Symbol<br>
 
 
  <table class = "box">
@@ -150,7 +148,7 @@
 
   * **NAND Gate**<br><br>
 
-  <a href ="https://www.electronicshub.org/universal-gates-nand-gate/"><img src= "/images/nand.jpg" alt ="NAND Gate Symbol"></a><br> NAND Gate Symbol
+ <a href ="https://www.electronicshub.org/universal-gates-nand-gate/"><img src= "/images/nand.jpg" alt ="NAND Gate Symbol"></a><br> NAND Gate Symbol<br>
 
  <table align = "left" class="box">
     <tr>
@@ -186,7 +184,7 @@
   <p align = "left">NAND Gate Truth Table</p><br>
 
   * **XOR Gate**<br><br>
-  <a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/xor.jpg" alt ="XOR Gate Symbol"></a><br> XOR Gate Symbol
+  <a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/xor.jpg" alt ="XOR Gate Symbol"></a><br> XOR Gate Symbol<br>
 
  <table align = "left" class="box">
     <tr>
@@ -222,7 +220,7 @@
   <p align = "left">XOR Gate Truth Table</p><br>
 
   * **XNOR Gate**<br><br>
-  <a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/xnor.jpg" alt ="XNOR Gate Symbol"></a><br> XNOR Gate Symbol
+<a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/xnor.jpg" alt ="XNOR Gate Symbol"></a><br> XNOR Gate Symbol<br>
  <table align = "left" class="box">
     <tr>
       <th colspan ="2"> Input</th>
