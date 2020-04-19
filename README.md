@@ -1,13 +1,4 @@
-<style
-  type="text/css">
-  a{
-    alink:blue;
-    link:red;
-  }
-  .index{
-    margin-left:20px;
-  }
-</style>
+
 
 
 # Basic Electronics
