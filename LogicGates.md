@@ -1,14 +1,3 @@
-<style
-  type="text/css">
-.box {
-  width: 158px;
-  text-align:center;
-  margin:0 auto;
-}
-th{
-  color:#FFFFFF; 
-}
-</style>
 
 
 
