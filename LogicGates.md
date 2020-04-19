@@ -13,9 +13,9 @@
   </h4> <br>
 <p >
   <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate Symbol"></a><br> AND Gate Symbol
- </p><br>
- <div class="box">
- <table  >
+</p><br>
+<p align = "center">
+ <table  width="158" align="center">
     <tr>
       <th colspan ="2"> Input</th>
       <th> Output</th>
@@ -46,8 +46,8 @@
       <td align="center">1</td>
     </tr>
   </table>
- </div>
-  <p align = "left">AND Gate Truth Table</p><br>
+ </p>
+ <p align = "left">AND Gate Truth Table</p><br>
 
   <h4>  
 
