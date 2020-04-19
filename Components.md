@@ -1,9 +1,5 @@
 <style
   type="text/css">
-  a{
-    alink:blue;
-    link:red;
-  }
   .boxes{
       margin:0 auto;
       width:300.0px;
@@ -21,7 +17,7 @@
 1. LEDs
 </h4>
 <p align ="center" class= "boxes">
-    <img src ="/images/leds.jpg"alt="LED's" > <br>
+    <img src ="/images/leds.jpg"alt="LED's"> <br>
 </p><br>
 <p align = "center"> Fig 1. LEDs </p>
 <div class="para">
