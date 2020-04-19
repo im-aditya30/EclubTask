@@ -1,45 +1,310 @@
-## Logic Gates
-   **What are Logic Gates?**<br><br>
-   Logic gates are the basic building blocks of any digital circuit. They are electronic circuits which have one or more inputs and only one output which relates to the input signals based on a certain logic.<br>
-  These are the basic logic gates:<br>
-| ghkhg | vhvhvc | cjhvhjv  |
-|-------|:------:|---------:|
-| nhvhv | nbvjhv | bvbvnbvn |
-| nhvhv | nbvjhv | khjkkkhl |
-| nhvhv | nbvjhv | vjhgvvnh |
-<table style="collapse-border:collapsed">
-<tr>
-  <td> vjhsdc</td>
-  <td> vhhjgdvd</td>
-</tr>
-</table>
-|    X    	|    Y    	|    Z    	|
-|:-------:	|:-------:	|:-------:	|
-|    0    	|    0    	|    0    	|
-|    0    	|    1    	|    0    	|
-|    1    	|    0    	|    0    	|
-|    1    	|    1    	|    1    	|
+<style
+  type="text/css">
 
- [![AND Gate  Symbol](/images/andgate.png "AND Gate")](https://www.electronicshub.org/digital-logic-and-gate/) <br>
-   * OR Gate<br>
- [![OR Gate Symbol](/images/orgate.png "OR Gate")](https://www.electronicshub.org/digital-logic-or-gate/) <br>
-   * NOT Gate<br>
- [![NOT Gate  Symbol](/images/notgate.png "NOT Gate")](https://www.electronicshub.org/digital-logic-not-gate/) <br>
-   * NOR Gate<br>
- [![NOR Gate Symbol](/images/norgate.png "NOR Gate")](https://www.electronicshub.org/universal-gates-nor-gate/) <br>
-   * NAND Gate<br>
- [![NAND Gate Symbol](/images/nandgate.png "NAND Gate")](https://www.electronicshub.org/universal-gates-nand-gate/) <br>
-   * XOR Gate<br>
- [![XOR Gate Symbol](/images/exorgate.png "XOR Gate")](https://www.electronicshub.org/exclusive-or-gatexor-gate/) <br>
-   * XNOR Gate<br>
-  [![XNOR Gate Symbol](/images/xnorgate.png "XNOR Gate")](https://www.electronicshub.org/exclusive-nor-gate/) <br>
- ##### The NAND (NOT-AND) and NOR (NOT-OR) gates are considered universal gates and can be used to make any other logic gate.<br> For example : NAND gate can be use to make following gates:<br>
- ![NAND Gate Applications](/images/nandgateUses.webp)     
+table {
+  /* */
+  /* border: 1px solid black; */
+}
+.box {
+  width: 158px;
+  text-align:center;
+  margin:0 auto;
+}
+th{
+  /* background-color:#000000; */
+  color:#FFFFFF; 
+  
+}
+</style>
+
+
+
+
+# Logic Gates
+   <h3>What are Logic Gates?</h3>
+   Logic gates are the basic building blocks of any digital circuit. They are electronic circuits which have one or more inputs and only one output which relates to the input signals based on a certain logic.
+
+  ##### These are the basic logic gates:<br>
+  <h4>  
+
+  * AND Gate
+  </h4> <br>
+<p align = "center">
+  <a href ="https://www.electronicshub.org/digital-logic-and-gate/"><img src= "/images/and.jpg" alt ="AND Gate Symbol"></a><br> AND Gate Symbol
+ </p><br>
+ <div class="box">
+ <table  >
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+  </table>
+ </div>
+  <p align = "center">AND Gate Truth Table</p><br>
+
+  <h4>  
+
+  * OR Gate
+  </h4> <br>
+  <p align = "center">
+  <a href ="https://www.electronicshub.org/digital-logic-or-gate/"><img src= "/images/or.jpg" alt ="OR Gate Symbol"></a><br> OR Gate Symbol
+ </p><br>
+ <table align = "center" class="box">
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+  </table>
+  <p align = "center">OR Gate Truth Table</p><br>
+
+  <h4>  
+
+  * NOT Gate
+  </h4> <br>
+   <p align = "center">
+  <a href ="https://www.electronicshub.org/digital-logic-not-gate/"><img src= "/images/not.jpg" alt ="NOT Gate Symbol"></a><br> NOT Gate Symbol
+ </p><br>
+
+ <p align = "center">
+  <table align = "center" class="box">
+    <tr>
+      <th colspan ="1"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <!-- <th>Y</th> -->
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td align = "center">0</td>
+      <!-- <td>0</td> -->
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td align = "center">1</td>
+      <!-- <td>1</td> -->
+      <td align="center">0</td>
+    </tr>
+  </table>
+  </p>
+
+  <p align = "center">NOT Gate Truth Table</p><br>
+
+  <h4>  
+
+  * NOR Gate
+  </h4> 
+
+  <p align = "center">
+    <img src= "/images/nor.jpg" alt ="NOR Gate Symbol"> <br> NOR Gate Symbol
+ </p><br>
+
+ <table class = "box">
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+  </table>
+  <p align = "center">NOR Gate Truth Table</p><br>
+
+  <h4>  
+
+  * NAND Gate
+  </h4> <br>
+  <p align = "center">
+  <a href ="https://www.electronicshub.org/universal-gates-nand-gate/"><img src= "/images/nand.jpg" alt ="NAND Gate Symbol"></a><br> NAND Gate Symbol
+ </p><br>
+ <table align = "center" class="box">
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+  </table>
+  <p align = "center">NAND Gate Truth Table</p><br>
+<h4>  
+
+  * XOR Gate
+  </h4> <br>
+  <p align = "center" >
+  <a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/xor.jpg" alt ="XOR Gate Symbol"></a><br> XOR Gate Symbol
+ </p><br>
+ <table align = "center" class="box">
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+  </table>
+  <p align = "center">XOR Gate Truth Table</p><br>
+  
+  <h4>  
+
+  * XOR Gate
+  </h4> <br>
+  <p align = "center">
+  <a href ="https://www.electronicshub.org/universal-gates-nor-gate/"><img src= "/images/xnor.jpg" alt ="XNOR Gate Symbol"></a><br> XNOR Gate Symbol
+ </p><br>
+ <table align = "center" class="box">
+    <tr>
+      <th colspan ="2"> Input</th>
+      <th> Output</th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Y</th>
+      <th>Z</th>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>0</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td align="center">1</td>
+    </tr>
+  </table>
+  <p align = "center">XNOR Gate Truth Table</p><br>
+
+  The NAND (NOT-AND) and NOR (NOT-OR) gates are considered universal gates and can be used to make any other logic gate.<br> For example : NAND gate can be use to make following gates:<br>
+ <p align = "center">
+  <img src ="/images/nandgateUses.webp" alt ="NAND Gate Uses">
+ </p>
+ <hr>
  
-|         Input   	    |  Output  	|
-|---------	|---------	|---------	|
-|    X    	|    Y    	|    Z    	|
-|    0    	|    0    	|    0    	|
-|    0    	|    1    	|    0    	|
-|    1    	|    0    	|    0    	|
-|    1    	|    1    	|    1    	|
