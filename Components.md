@@ -7,7 +7,7 @@
 1. LEDs
 </h4>
 <p align ="center" class= "boxes">
-    <img src ="/images/leds.jpg"alt="LED's"> <br>
+    <img src ="/images/leds.jpg"alt="LED's" width ="300" height ="150"> <br>
 </p><br>
 <p align = "center"> Fig 1. LEDs </p>
 <div class="para">
@@ -18,7 +18,7 @@ LEDs are quite often used in circuits both for debugging and for outputs as well
 2. Capacitors
 </h4>
 <p align ="center" class= "boxes" >
-    <img src ="/images/capacitor.jfif" alt="Capacitors"> 
+    <img src ="/images/capacitor.jfif" alt="Capacitors" width ="300" height ="150"> 
 </p><br>
 <p align = "center"> Fig 2. Capacitors </p>
 <div class="para">
@@ -27,7 +27,7 @@ Capacitors can also be used to filter the noise which is like filtering the ac p
 <br> There exits many types of capacitors and one of them is cermaic capacitor (Fig 3.). 
 </div>
 <br><p align ="center" class= "boxes">
-    <img src ="/images/ceramicCapacitor.jpg" alt="Ceramic Capacitor" > <br> Fig 3. Ceramic Capacitor
+    <img src ="/images/ceramicCapacitor.jpg" alt="Ceramic Capacitor" width ="300" height ="150"> <br> Fig 3. Ceramic Capacitor
 </p><br><br>
 <div class="para">
 This types of capacitors have special coding codes which helps in determining the capacitance of the capacitor.
@@ -35,7 +35,7 @@ Below is the table of representing Letter code and its corresponding capacitance
 <br><br>
 <p align ="center">
 Table1. Capacitor Letter Codes Table<br><br>
-<img src ="/images/capacitorLetterCodeTable.png" alt="Capacitor Letter code Table" > <br> 
+<img src ="/images/CapacitorLetterCodeTable.png" alt="Capacitor Letter code Table" > <br> 
 </p>
 
 You can [cick here](https://www.electronics-tutorials.ws/capacitor/cap_5.html) to know more about these coding.
@@ -46,7 +46,7 @@ You can [cick here](https://www.electronics-tutorials.ws/capacitor/cap_5.html) t
 </h4>
 </h4>
 <p align ="center" class= "boxes" >
-    <img src ="/images/resistors.jpg" alt="Resistors"> 
+    <img src ="/images/resistors.jpg" alt="Resistors" width ="300" height ="150"> 
 </p><br>
 <p align = "center"> Fig 4. Resistors </p>
 <div class="para">
@@ -77,7 +77,7 @@ There exists many types of wires but the two basic types are:
 
  **Normal Wires**</li><br>
 <p align ="center" class ="boxes">
-<img src ="/images/n_wires.jpg" alt="Normal Wires" ><br>
+<img src ="/images/n_wires.jpg" alt="Normal Wires" width ="300" height ="150"><br>
 Fig 6. Normal Wires
 </p><br><br>
 
@@ -88,17 +88,17 @@ Fig 6. Normal Wires
 <ul>
         <li> Male to Male</li>
 <p align ="center" class ="boxes">
-    <img src ="/images/maletomale.png" alt="Male to Male" ><br>
+    <img src ="/images/maletomale.png" alt="Male to Male" width ="300" height ="150"><br>
     Fig 7. Male to Male Jumper Wire
 </p><br><br>
     <li>Male to Female</li>
     <p align ="center" class ="boxes">
-    <img src ="/images/maletofemale.png" alt="Male to Female" ><br>
+    <img src ="/images/maletofemale.png" alt="Male to Female" width ="300" height ="150"><br>
     Fig 8. Male to Female Jumper Wire
 </p><br><br>
     <li>Female to Female</li>
     <p align ="center" class ="boxes">
-    <img src ="/images/femaletofemale.png" alt="Female to Female" ><br>
+    <img src ="/images/femaletofemale.png" alt="Female to Female" width ="300" height ="150" ><br>
     Fig 9. Female to Female Jumper Wire
 </p><br><br>
 </ul>
@@ -112,7 +112,7 @@ Fig 6. Normal Wires
 </h4>
 <p align ="center" class= "boxes">
 <!-- <div class= "boxes"> -->
-    <img src ="/images/potentiometer.jpg"alt="Potentiometer" > <br>
+    <img src ="/images/potentiometer.jpg"alt="Potentiometer" width ="250" height ="200"> <br>
 <!-- </div> -->
 </p><br>
 <p align = "center"> Fig 10. A typical Potentiometer </p>
@@ -125,7 +125,7 @@ The potentiometer, commonly referred to as a “pot”, is a three-terminal mech
 </h4>
 <p align ="center" class= "boxes">
 <!-- <div class= "boxes"> -->
-    <img src ="/images/ics.jpg"alt="ICs" > <br>
+    <img src ="/images/ics.jpg"alt="ICs" width ="250" height ="180"> <br>
 <!-- </div> -->
 </p><br>
 <p align = "center"> Fig 11. A typical  7400 IC </p>
@@ -138,11 +138,11 @@ An IC is a collection of electronic components -- resistors, transistors, capaci
 </h4>
 <p align ="center" class= "boxes">
 <!-- <div class= "boxes"> -->
-    <img src ="/images/inductor.jpg"alt="Inductor" > <br>
+    <img src ="/images/inductor.jpg"alt="Inductor"width ="250" height ="150" > <br>
 <!-- </div> -->
 </p><br>
 <p align = "center"> Fig 12 A typical  Inductor </p>
-<div class="para">
+
 An Inductor is a passive electrical component consisting of a coil of wire which is designed to take advantage of the relationship between magentism and electricity as a result of an electric current passing through the coil
-</div>
+
 <hr>
