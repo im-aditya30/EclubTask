@@ -1,14 +1,4 @@
-<style
-  type="text/css">
-  .boxes{
-      margin:0 auto;
-      width:300.0px;
-      height: 150.0px;
-  }
-  .para{
-      margin-left: 40px;
-  }
-</style>
+
 
 ## Basic Components
  Here are few basic components which we use quite often while making circuits: 
